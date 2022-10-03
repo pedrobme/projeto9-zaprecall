@@ -220,6 +220,8 @@ const SelectDeckScreen = styled.div`
     font-size: 36px;
 
     margin-block: 30px;
+
+    font-family: 'Righteous', cursive;
   }
 
   button {
@@ -269,6 +271,8 @@ const Title = styled.div`
     color: #ffffff;
 
     font-size: 36px;
+
+    font-family: 'Righteous', cursive;
   }
 `;
 

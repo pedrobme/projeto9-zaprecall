@@ -39,6 +39,10 @@ const ButtonsDiv = styled.div`
   justify-content: space-between;
 
   button {
+    cursor: pointer;
+
+    font-family: 'recursive', sans-serif;
+    
     border-radius: 5px;
 
     width: 85px;

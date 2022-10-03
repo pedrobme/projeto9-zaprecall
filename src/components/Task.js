@@ -145,7 +145,6 @@ const OpenedTaskLi = styled.li`
   padding: 15px;
 
   font-size: 16px;
-  font-weight: bold;
 
   margin-bottom: 25px;
 
@@ -164,7 +163,6 @@ const AnsweredTaskLi = styled.li`
   padding: 15px;
 
   font-size: 16px;
-  font-weight: bold;
 
   margin-bottom: 25px;
 
